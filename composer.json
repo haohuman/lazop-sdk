@@ -1,0 +1,19 @@
+{
+    "name": "haohuman/lazop-sdk",
+    "description": "Lazada Open API PHP SDK",
+    "type": "library",
+    "authors": [
+        {
+            "name": "leopon",
+            "email": "haohauman@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "files": [
+            "lazop/LazopClient.php"
+        ]
+    }
+}
